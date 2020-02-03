@@ -6,12 +6,12 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Edit _config.yml to set your title!
-description: This is where the description of your site will go. You should change it by editing the _config.yml file. It can be as long as you like! Happy blogging... ❤
-github_username: jph00
+title: Shak's PhD Research Adventures
+description: Just a blog for me to share my research adventures with the public! I am focused on Deep Learning for Biomedical imaging, and I am currently working on Lung Cancer detections. I wish to contribute more in the Biomedical field and am open to any kind of opportunities that you would like to offer. I am also keen on giving a helping hand if I am able to help you! :)
+github_username: shakjm
 
 # Email and twitter are optional:
-email: 
+email: Kelvin.Shak@monash.edu
 twitter_username: 
 
 # OPTIONAL: override baseurl and url if using a custom domain
@@ -19,7 +19,7 @@ twitter_username:
 #baseurl: the subpath of your site, e.g. /blog
 
 # Set this to true to get LaTeX math equation support
-use_math: 
+use_math: True
 
 # Add your Google Analytics ID here if you have one and want to use it
 google_analytics:
