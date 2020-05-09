@@ -1,8 +1,8 @@
-# Shak's Blog
+# Shak's Deep Learning Adventures
 
-This will be my own blog with random updates to document my progress in the Deep Learning field for biomedical images. Currently, I'm working on Lung Nodule detection in Computed Tomography (CT) Images in my PhD Research, and wish to be able to contribute more in the biomedical field under the Computer Vision applications. 
+This will be my own blog to document my progress in the Deep Learning field for biomedical images. Currently, I'm working on Lung Nodule detection in Computed Tomography (CT) Images in my PhD Research, and wish to be able to contribute more in the biomedical field under the Computer Vision applications. I am currently working on object detection frameworks, which is my main framework being implemented in detecting lung nodules. Previous architecure used was based on segmentation architecture, namely, U-Net model. The base model of U-Net architecture was able to achieve an average accuracy of 70% in detecting lung nodules. Implementation of object detection frameworks have seen an improvement in detection accuracy, which ranges from 85% to 95% accuracy. 
 
-I am on my first year of PhD, and am required to come up with a publication. My current project has been completed until a baseline 2D U-Net model. It might seem as if it's just a simple model, but to be able to code it from scratch, was a big achievement for myself. Results obtained on the 2D U-NET model was satisfactory, given that this is the first time I'm in the Deep Learning field. As for now, I have no plans on continuing on 2D models for lung nodule detection. My supervisor and I will be moving on to 3D Models to be able to consider volumetric spaces or images for better detections. 
+It was an personal achievement, that I was able to develop a base U-Net model for lung nodule detections with an average accuracy of 70%. However, the model developed was poorly done and a change of direction in tackling the research project has to be done. As of May 2020, I am in my second year of PhD, and I am planning to achieve at least one publication before I enter into my third year of PhD. The current framework revolves around 3D imaging and improvements have been made to existing models which has shown great amount of improvement. 
 
 My Github page can be found here [link to github](http://shakjm.github.io)
 
