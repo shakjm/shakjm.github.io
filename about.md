@@ -7,5 +7,3 @@ If you have any deep learning opportunities that you would like to share with me
 <a href="https://www.linkedin.com/in/kelvin-shak-378b1263/">Linkedin</a>
 
 If you wish to e-mail me personally, you may contact me at Kelvin.Shak@monash.edu 
-
-# Resume
