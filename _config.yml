@@ -25,7 +25,9 @@ use_math: True
 google_analytics:
 
 # Everything below here can be ignored, unless you want to change the theme entirely
-theme: jekyll-theme-strata
+sass:
+  sass_dir: _sass
+  theme: jekyll-theme-strata
 plugins:
   - jekyll-feed
   - jekyll-gist
