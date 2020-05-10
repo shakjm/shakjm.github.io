@@ -6,13 +6,36 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Shak's PhD Research Adventures
-description: I am focused on Deep Learning for Biomedical imaging, and I am currently working on Lung Cancer detections. I wish to contribute more in the Biomedical field and am open to any kind of opportunities that you would like to offer. I am also keen on giving a helping hand if I am able to help you! :)
-github_username: shakjm
+#title: Shak's PhD Research Adventures
+#description: I am focused on Deep Learning for Biomedical imaging, and I am currently working on Lung Cancer detections. I wish to contribute more in the Biomedical field and am open to any kind of opportunities that you would like to offer. I am also keen on giving a helping hand if I am able to help you! :)
+#github_username: shakjm
 
 # Email and twitter are optional:
-email: Kelvin.Shak@monash.edu
-twitter_username: 
+#email: Kelvin.Shak@monash.edu
+#twitter_username: 
+
+title: Your awesome title
+email: your-email@domain.com
+description: >
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+twitter_username: mloberg
+github_username: mloberg
+dribbble_username: ~
+facebook_username: ~
+flickr_username: ~
+instagram_username: mloberg
+linkedin_username: ~
+pinterest_username: ~
+youtube_username: ~
+googleplus_username: ~
+rss: true
+
+show_excerpts: true
+date_format: "%b %-d, %Y"
+
+logo: https://picsum.photos/123?image=669
 
 # OPTIONAL: override baseurl and url if using a custom domain
 #url:  the base hostname & protocol for your site, e.g. http://example.com
