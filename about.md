@@ -4,24 +4,23 @@ title: Jekyll Theme - About - Massively
 description: When building a website it's helpful to see what the focus of your site is. This page is an example of how to show a website's focus.
 sitemap:
     priority: 0.7
-    lastmod: 2017-11-02
+    lastmod: 2020-05-10
     changefreq: weekly
 ---
-## About our Site
+## About Me
 
-<span class="image left"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
+<span class="image left"><img src="{{ "/images/me.JPG" | absolute_url }}" alt="" /></span>
 
-Making steady content and conveying it well takes a great deal of research and, hence, time and exertion. Building a profound established comprehension of your target customer needs is critical as your principle objective ought to be to fulfill their requirements as awesome content. You should need to enhance their lives. Having significant content like this may not be simple by any methods. Be that as it may, in any case, it's a fundamental apparatus in the event that you expect to grow a fruitful and supportable business in the present web focused world.
+I am a Second Year PhD student in Electrical & Computer Systems Engineering at Monash University Malaysia. I specialize in Deep Learning on Lung Cancer imaging, but have special interest in Deep Learning in particular. I am more interested in Biomedical Imaging applications in the Computer Vision field. This website serves the purpose as my own portfolio, and also to share some of my knowledge to the public. I wish to be one of the top deep learning practitioners in the biomedical field. I am open to opportunities if there are any that you would like to share with me. I started out in the deep learning field in 2019 with very little knowledge on the field, and was lucky enough to be able to join a PhD program. I've started off reading articles related to Machine Learning and Deep Learning but that did not really help me in my research when I started. It was a struggle and there were times I've wanted to give up. If in any case you were in my position and would like to get some help, please feel free to reach out to me.
 
-Receiving the benefits of content is a certain something. Be that as it may, it's so substantially less demanding once you begin conveying all the more successfully. The profitable content thought isn't just about bragging your item's capacities and general worth or your organization's achievements. You should concentrate less on advertising how awesome your item is and rather concentrate on indicating how valuable it is. This is a client focused approach as it concentrates on their issues and your answer for them. Making yourself fundamental is critical.
 
-### Content is Imortant
+### A little motivation goes a long way
 <div class="box">
   <p>
-  In saying that, a one-measure fits-all approach won't do the trick with regards to content promoting. Rather, an emphasis on making remarkable, high caliber and totally genuine content that is engaging, helpful and fascinating for customers will get you the crown. From content, video and symbolism to infographics, studies, online courses and podcasts, whatever your favored content medium is, guarantee it is shareable and pertinent to your industry.
+  I have read this somewhere online, and it stays with me when I feel like giving up.
+  Someone once told me the definition of hell. "On the last day of your life, the person you become will meet the person you could've become."
   </p>
 </div>
 
 <span class="image left"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt="" /></span>
 
-On social media, we may share our own thoughts and advance our image notwithstanding spreading musings for different associations and affiliations. With such a critical number of associations with people and relationship on social media, our experience can be over-burden with a considerable measure of information.
