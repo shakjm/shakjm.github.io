@@ -13,34 +13,29 @@
 # Email and twitter are optional:
 #email: Kelvin.Shak@monash.edu
 #twitter_username: 
-@font-face {
-    font-family: F16;
-    src: url("../assets/fonts/fontawesome-webfront.ttf") format('truetype');
-    font-weight: bold;
-    font-style: normal;
-    title: Your awesome title
-  email: your-email@domain.com
-  description: >
-    Write an awesome description for your new site here. You can edit this
-    line in _config.yml. It will appear in your document head meta (for
-    Google search results) and in your feed.xml site description.
-  twitter_username: mloberg
-  github_username: mloberg
-  dribbble_username: ~
-  facebook_username: ~
-  flickr_username: ~
-  instagram_username: mloberg
-  linkedin_username: ~
-  pinterest_username: ~
-  youtube_username: ~
-  googleplus_username: ~
-  rss: true
-}
+
+title: Your awesome title
+email: your-email@domain.com
+description: >
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+twitter_username: mloberg
+github_username: mloberg
+dribbble_username: ~
+facebook_username: ~
+flickr_username: ~
+instagram_username: mloberg
+linkedin_username: ~
+pinterest_username: ~
+youtube_username: ~
+googleplus_username: ~
+rss: true
 
 show_excerpts: true
 date_format: "%b %-d, %Y"
 
-logo: https://picsum.photos/123?image=669
+logo: <img src="./images/me.JPG" class="img-fluid" alt="#">
 
 # OPTIONAL: override baseurl and url if using a custom domain
 #url:  the base hostname & protocol for your site, e.g. http://example.com

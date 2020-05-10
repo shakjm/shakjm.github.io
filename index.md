@@ -1,9 +1,4 @@
 # Posts
-<div class="col-md-4">
-<div class="boder-img">
-<img src="./images/me.JPG" class="img-fluid" alt="#">
-</div>
-</div>
 
 <div id="typer"><h1><span class="iq-font-purple">Deep</span> Learning</h1> </div>
 
