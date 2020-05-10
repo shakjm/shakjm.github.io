@@ -5,8 +5,9 @@ date:   2020-05-10
 excerpt: "Why lung cancer? What systems are there to aid in this field?"
 image: "/images/lungs.jpg"
 ---
-
+<header>
 <p><i>Image was obtained from [The New York Times](https://www.nytimes.com/2019/05/20/health/	cancer-artificial-intelligence-ct-scans.html)</i></p>
+</header>
 
 ## Lung Cancer
 
