@@ -35,7 +35,7 @@ rss: true
 show_excerpts: true
 date_format: "%b %-d, %Y"
 
-logo: <img src="./images/me.JPG" width ="200" height="200">
+logo: <img src="./images/me.JPG">
 
 # OPTIONAL: override baseurl and url if using a custom domain
 #url:  the base hostname & protocol for your site, e.g. http://example.com
