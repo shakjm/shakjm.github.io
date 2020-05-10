@@ -15,7 +15,7 @@
 #twitter_username: 
 
 title: Kelvin Shak
-email: your-email@domain.com
+email: Kelvin.Shak@monash.edu
 description: >
   I am focused on Deep Learning for Biomedical imaging, and I am currently working on Lung Cancer detections. 
   I wish to contribute more in the Biomedical field and am open to any kind of opportunities that you would like to offer. 
@@ -57,17 +57,3 @@ plugins:
   - jekyll-octicons
   - jekyll-github-metadata
   - jekyll-seo-tag
-
-titles_from_headings:
-  enabled:     true
-  strip_title: true
-  collections: true
-
-highlighter: rouge
-markdown: kramdown
-kramdown:
-  math_engine: katex
-  input: GFM
-  auto_ids: true
-  hard_wrap: false
-  syntax_highlighter: rouge
