@@ -1,28 +1,24 @@
 ---
 layout: post
-title:  "Welcome to Massively: The Jekyll Theme!"
-date:   2017-10-31
-excerpt: "Huge thanks to HTML5 UP for making this awesome template! Let's see what it can do"
-image: "/images/pic02.jpg"
+title:  "Introduction to Lung Cancer Detection"
+date:   2020-05-10
+excerpt: "Why lung cancer? What systems are there to aid in this field?"
+image: "/images/lungs.jpg"
 ---
 
-## How to Use This Theme
-Just go ahead and read up on [how to install Jekyll](https://jekyllrb.com/). It's not too hard I promise!
+## Lung Cancer
 
-Download this repository [here](https://github.com/iwiedenm/jekyll-theme-massively) and save it to any folder you want.
+Cancer has been known to be one of the deadly diseases that is present in our lives. Many of the victims of lung cancer had their lives taken away. In order to help prevent and control this disease, early detections should be done to ensure high survival rates of the patients diagnosed with lung cancer. Research has shown that early detection of lung cancers have helped in the survival rate of the diagnosed patient.
 
-Open a terminal window or a command line and ```cd``` to that location.
+## Work
 
-Then enter: ```bundle exec jekyll serve```. You can now access your new Jekyll site from [http://127.0.0.1:4000/](http://127.0.0.1:4000/). Have fun exploring your new site!
+My work revolves around the [LUNA16 challenge](https://luna16.grand-challenge.org/), which was held in 2016 to help in lung cancer screening. The challenge has since ended, and submissions are stopped. However, researches are still ongoing in helping detect Lung Cancer. The two tasks that are present in this challenge are Lung Nodule Detection and Classification. These two tasks are separate tasks but goes hand-in-hand. Many of the participants have moved from Computed Aided-Diagnosis (CAD) systems to Neural Network architectures. [To be continued]
 
 ## Features
 ### Auto-Generating Sitemap
 The sitemap is auto generated! Just simply change the front matter of each site. It looks like so...
 ```
-sitemap:
-    priority: 0.7
-    lastmod: 2017-11-02
-    changefreq: weekly
+This
+is
+incomplete
 ```
-### Formspring integration
-The contact form below each page on the footer actually collects information! Just change your email address in the ```_config.yml``` file!
