@@ -17,7 +17,7 @@ Cancer has been known to be one of the deadly diseases that is present in our li
 
 My work revolves around the [LUNA16 challenge](https://luna16.grand-challenge.org/), which was held in 2016 to help in lung cancer screening. The challenge has since ended, and submissions are stopped. However, researches are still ongoing in helping detect Lung Cancer. The two tasks that are present in this challenge are Lung Nodule Detection and Classification. These two tasks are separate tasks but goes hand-in-hand. Many of the participants have moved from Computed Aided-Diagnosis (CAD) systems to Neural Network architectures. [To be continued]
 
-## Features
+<!--## Features
 ### Auto-Generating Sitemap
 The sitemap is auto generated! Just simply change the front matter of each site. It looks like so...
 ```
@@ -25,3 +25,4 @@ This
 is
 incomplete
 ```
+-->
