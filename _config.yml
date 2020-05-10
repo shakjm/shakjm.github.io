@@ -35,7 +35,7 @@ rss: true
 show_excerpts: true
 date_format: "%b %-d, %Y"
 
-logo: <img src="./images/logo.png">
+logo: https://drive.google.com/uc?export=download&id=1OJbRCO5sFRxC9p9N2XYqsV3IlZD8Xcct
 
 # OPTIONAL: override baseurl and url if using a custom domain
 #url:  the base hostname & protocol for your site, e.g. http://example.com
