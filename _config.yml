@@ -1,58 +1,64 @@
+# Developer's Note: This is a sample _config.yml file offered with
+# jekyll-theme-prologue for your convenience. To use it, move it to your
+# project's root directory. Please note that the following lines are
+# NECESSARY for Prologue to work correctly:
+#
+# theme: jekyll-theme-prologue
+# collections: [sections]
+#
+# They activate the theme and tell Jekyll to find your homepage content
+# in /_sections. Note where "sections" starts with an underscore
+# and where it doesn't. The social settings will make links to
+# Twitter, etc., but only if you give the URL.
+#
+# Also, be sure to customize url and baseurl for your site.
+#
+# ---------------------------------------------------------------
+#
 # Welcome to Jekyll!
 #
-# This config file is meant for settings that affect your whole blog.
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-#title: Shak's PhD Research Adventures
-#description: I am focused on Deep Learning for Biomedical imaging, and I am currently working on Lung Cancer detections. I wish to contribute more in the Biomedical field and am open to any kind of opportunities that you would like to offer. I am also keen on giving a helping hand if I am able to help you! :)
-#github_username: shakjm
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Your awesome title
+subtitle: Your awesome subtitle
+description: >- # this means to ignore newlines until "baseurl:"
+  This is the demo site for a Jekyll theme version of
+  HTML5 UP's sleek, responsive site template Prologue.
+author: Your Incredible Name
+email: your-email@example.com
+avatar: assets/images/avatar.jpg
 
-# Email and twitter are optional:
-#email: Kelvin.Shak@monash.edu
-#twitter_username: 
+# You'll want to customize url and baseurl for your own site:
+baseurl: "/jekyll-theme-prologue" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
 
-title: Kelvin Shak
-email: Kelvin.Shak@monash.edu
-description: >
-  I am focused on Deep Learning for Biomedical imaging, and I am currently working on Lung Cancer detections. 
-  I wish to contribute more in the Biomedical field and am open to any kind of opportunities that you would like to offer. 
-  Always keen on giving a helping hand if it is any help to you.
-twitter_username: ~
-github_username: shakjm
-dribbble_username: ~
-facebook_username: ~
-flickr_username: ~
-instagram_username: shakjm
-linkedin_username: kelvin-shak-378b1263
-pinterest_username: ~
-youtube_username: ~
-googleplus_username: ~
-rss: true
+# Social settings
+# Make sure to include the full url including protocol, e.g. https://github.com/chrisbobbe
+twitter_url:
+facebook_url:
+googleplus_url:
+instagram_url:
+linkedin_url:
+github_url:
+stackoverflow_url:
+pinterest_url:
+slack_url:
+dribbble_url:
 
-show_excerpts: true
-date_format: "%b %-d, %Y"
-
-logo: https://drive.google.com/uc?export=download&id=1OJbRCO5sFRxC9p9N2XYqsV3IlZD8Xcct
-
-# OPTIONAL: override baseurl and url if using a custom domain
-#url:  the base hostname & protocol for your site, e.g. http://example.com
-#baseurl: the subpath of your site, e.g. /blog
-
-# Set this to true to get LaTeX math equation support
-use_math: True
-
-# Add your Google Analytics ID here if you have one and want to use it
+# Google Analytics Tracking ID goes here:
 google_analytics:
 
-# Everything below here can be ignored, unless you want to change the theme entirely
-sass:
-  sass_dir: _sass
-  theme: jekyll-theme-strata
-plugins:
-  - jekyll-feed
-  - jekyll-github-metadata
-  - jekyll-octicons
-  - jekyll-seo-tag
+# The following settings are NECESSARY for the Prologue theme to run:
+theme: jekyll-theme-prologue
+collections: [sections]
